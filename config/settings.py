@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'dj_rest_auth.registration',
     'allauth',
     'allauth.account',
+    'drf_yasg',
 
     # my app
     'my_rest'
